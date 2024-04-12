@@ -1,0 +1,67 @@
+body {
+    background-color: #b79649a4;
+    margin:0;
+}
+
+#sitetitle{
+    margin: 0;
+}
+
+header {
+    background-color: #a78f3775;
+    padding-left: 30px;
+    padding: 10px;
+    color: #f6efd4e5;
+}
+
+a:hover {
+    color: #5c5c5c;
+  }
+
+nav{
+    background-color: #826c2d;
+    color: #ffffff;
+}
+
+nav ul{
+    margin:0;
+    list-style-type: none;
+    padding: 13px 26px;
+}
+
+nav ul li a{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+}
+
+nav ul li{
+    display:inline;
+    margin: 0px 13px;
+}
+
+main{
+    color: #282619c8;
+}
+
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center {
+    text-align: center;
+}
+
+.text p{
+    padding: 0px 150px;
+}
+
+.articletitle{
+    text-decoration: underline;
+}
+
+hr {
+    border-color: rgb(202, 179, 123);
+}
